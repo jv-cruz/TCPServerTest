@@ -1,0 +1,10 @@
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\bin\Debug\TCPServer_Test.exe.config
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\bin\Debug\TCPServer_Test.exe
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\bin\Debug\TCPServer_Test.pdb
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\obj\Debug\TCPServer_Test.csprojResolveAssemblyReference.cache
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\obj\Debug\TCPServer_Test.MainForm.resources
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\obj\Debug\TCPServer_Test.Properties.Resources.resources
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\obj\Debug\TCPServer_Test.csproj.GenerateResource.cache
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\obj\Debug\TCPServer_Test.csproj.CoreCompileInputs.cache
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\obj\Debug\TCPServer_Test.exe
+D:\Joao\Documents\Engenharia Eletrônica\TCC\TCPServer_Test\TCPServer_Test\obj\Debug\TCPServer_Test.pdb
