@@ -23,8 +23,11 @@ namespace TCPServer_Test
             btnClick.Click += BtnClick_Click;
 
             this.lbState.DataBindings.Add("Text", _viewModel, "StateText");
-            //lbState.Text = "aaaa";
+
+            this.tbInput.DataBindings.Add("Text", _viewModel, "InputText");
+            
         }
+
 
         private void BtnClick_Click(object sender, EventArgs e)
         {
